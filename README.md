@@ -19,3 +19,4 @@ exemple pour lancer 15.txt en enumeration :
 ```
 > python main.py enumeration 15
 ```
+![Cover](https://github.com/EthanAbitbol3/Nonogram/edit/main/enumeration_15.jpg)
